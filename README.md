@@ -62,4 +62,11 @@ Email Notification System
 ![5](https://github.com/user-attachments/assets/2ef1b1a0-0566-40e0-a9e8-f904374df8d5)
 
 
+## Author
+Khushbu Yadav
+
+## Project
+Sentiment Alert - A Flask-based web application that analyzes user mood from journal entries using the RoBERTa sentiment analysis model.
+
+
 
