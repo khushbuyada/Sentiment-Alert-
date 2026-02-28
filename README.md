@@ -69,4 +69,8 @@ Khushbu Yadav
 Sentiment Alert - A Flask-based web application that analyzes user mood from journal entries using the RoBERTa sentiment analysis model.
 
 
+## Author
+Khushbu Yadav
 
+## Project
+Sentiment Alert - A Flask-based web application that analyzes user mood from journal entries using the RoBERTa sentiment analysis model.
