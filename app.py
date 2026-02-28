@@ -12,10 +12,6 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-
-print("Loaded Email:", os.getenv("EMAIL_USER"))
-print("Loaded Pass:", os.getenv("EMAIL_PASS"))
-
 app = Flask(__name__)
 
 # Load RoBERTa model

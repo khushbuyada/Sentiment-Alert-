@@ -1,0 +1,31 @@
+Timestamp,Journal,Sentiment,Confidence (%)
+2025-10-25 05:13:47,I am happy,Positive,97.92
+2025-10-25 05:14:42,I am sad,Negative,92.01
+2025-10-25 05:15:19,Today I got 15 marks in test and I was ranked second.,Positive,59.69
+2025-10-25 05:21:12,I am happy,Positive,97.92
+2025-10-25 05:26:04,I have secured 1st rank in class. I am glad.,Positive,97.63
+2025-10-25 05:32:00,I am happy,Positive,97.92
+2025-10-25 05:38:31,I am happy,Positive,97.92
+2025-10-25 05:40:25,I am Happy,Positive,97.54
+2025-10-25 07:28:04,I am sad,Negative,92.01
+2025-10-25 07:28:04,I am sad,Negative,92.01
+2025-11-02 18:08:28,I am sad,Negative,92.01,harshita26hello@gmail.com
+2025-11-02 18:16:07,I am melancholic,Neutral,53.86,harshita26hello@gmail.com
+2025-11-02 18:17:01,I am dejected and sorrowful,Negative,95.89,harshita26hello@gmail.com
+2025-11-03 19:04:13,i am very sad,Negative,94.31
+2025-11-03 19:04:14,i am very sad,Negative,94.31
+2025-11-03 19:11:19,i want to study but my mood is upset,Negative,87.88
+2025-11-03 19:12:21,i am happy for my project is running properly,Positive,98.52
+2025-11-03 20:23:34,I am sad,Negative,92.01
+2025-11-03 20:23:55,I am sad,Negative,92.01
+2025-11-11 05:20:45,I am sad,Negative,92.01
+2025-11-11 05:20:45,I am sad,Negative,92.01
+2025-11-11 09:35:11,I am happy,Positive,97.92
+2025-11-11 09:35:11,I am happy,Positive,97.92
+2025-11-11 17:14:12,I am happy,Positive,97.92
+2025-11-11 17:18:13,I am happy,Positive,97.92
+2025-11-11 17:22:01,"I am happy
+",Positive,97.05
+2025-11-11 17:26:46,I am happy,Positive,97.92
+2025-11-11 17:33:17,I am happy,Positive,97.92
+2025-11-11 17:33:38,I am happy,Positive,97.92
